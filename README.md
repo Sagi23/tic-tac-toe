@@ -1,4 +1,4 @@
-### Description
+### Description:
 
 Project that let you play tic-tac-toe with cool design.  
 The project is responsive to all device sizes(on mobile required to rotate phone).
